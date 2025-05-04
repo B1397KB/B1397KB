@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![img](https://wakatime.com/share/@f85ea650-43b3-4a54-9571-01dc99a02199/f3c878ca-1c9f-438e-a820-fb1d6274e350.svg)
+
 <!--
 **B1397KB/B1397KB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
