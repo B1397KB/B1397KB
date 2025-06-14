@@ -10,7 +10,7 @@
 
 参与的开源社区/项目: BFBAN, CAT TEAM(BFV ROBOT), 未来想构建一个战地系列的大玩家社区.
 
-Malaysia GMT+8 Language: S-Chinese(Manardin), English, Malay.
+Malaysia GMT+8 Language: S-Chinese(Mandarin), English, Malay.
 
 ---
 
@@ -20,7 +20,7 @@ Currently responsible for the core development of some open source projects, and
 
 Open source communities/projects involved: BFBAN, CAT TEAM (BFV ROBOT), I want to build a big player community for the Battlefield series in the future.
 
-Malaysia GMT+8 Language: S-Chinese (Manardin), English, Malay.
+Malaysia GMT+8 Language: S-Chinese (Mandarin), English, Malay.
 
 ---
 
@@ -30,7 +30,7 @@ Pada masa ini bertanggungjawab untuk pembangunan teras beberapa projek sumber te
 
 Komuniti/projek sumber terbuka yang terlibat: BFBAN, CAT TEAM (BFV ROBOT), saya mahu membina komuniti pemain yang besar untuk siri Battlefield pada masa hadapan.
 
-Malaysia GMT+8 Bahasa: S-Chinese (Manardin), English, Malay.
+Malaysia GMT+8 Bahasa: S-Chinese (Mandarin), English, Malay.
 
 ---
 
