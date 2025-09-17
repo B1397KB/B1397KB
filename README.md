@@ -4,11 +4,11 @@
 
 ---
 
-我是一名全栈开发者, 擅长使用 Vue, Node, C#, Python, Dart 等语言, 拥有多端开发经验. 同时擅长云服务和数据库相关技术. 熟练使用MySQL, SQL Server等数据库, 以及Redis MongoDB等内存数据库/集.
+全栈开发者, 擅长使用 Vue, Node, C#, Python, Dart 等语言, 拥有多端开发经验. 同时擅长云服务和数据库相关技术.
 
 目前负责部分开源项目的核心开发, 未来将会重心放在闭源和企业项目中.
 
-参与的开源社区/项目: BFBAN, CAT TEAM(BFV ROBOT), 未来想构建一个战地系列的大玩家社区.
+参与的开源社区/项目: BFBAN, CAT TEAM(BFV ROBOT).
 
 Malaysia GMT+8 Language: S-Chinese(Mandarin), English.
 
@@ -18,7 +18,7 @@ I am a full-stack developer, proficient in using Vue, Node, C#, Python, Dart and
 
 Currently responsible for the core development of some open source projects, and will focus on closed source and enterprise projects in the future.
 
-Open source communities/projects involved: BFBAN, CAT TEAM (BFV ROBOT), I want to build a big player community for the Battlefield series in the future.
+Open source communities/projects involved: BFBAN, CAT TEAM (BFV ROBOT).
 
 Malaysia GMT+8 Language: S-Chinese (Mandarin), English.
 
